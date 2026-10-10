@@ -26,33 +26,6 @@ import {
   TbBrandVscode,
 } from 'react-icons/tb';
 
-export const workExperience = [
-  {
-    id: 0,
-    text: 'SSR & Single Page Applications: Built high-performance, SEO-friendly web applications using Next.js (App Router, SSR/SSG) and React.',
-  },
-  {
-    id: 1,
-    text: 'State Management: Managed complex client-side state and optimized application performance using Zustand and React Context API.',
-  },
-  {
-    id: 2,
-    text: 'Responsive UI/UX Development: Developed cross-browser, mobile-first responsive interfaces based on Figma layouts using Tailwind CSS and Shadcn/ui.',
-  },
-  {
-    id: 3,
-    text: 'Fullstack Integration: Built robust RESTful APIs with Next.js, seamlessly connecting cloud PostgreSQL databases (Neon or Supabase) utilizing Prisma ORM for efficient schema management and migrations.',
-  },
-  {
-    id: 4,
-    text: 'Build Tools & Performance: Optimized project build pipelines by migrating legacy setups (Webpack/Gulp) to Vite, significantly improving HMR (Hot Module Replacement) and development build speed.',
-    // text: "Build Tools & Performance: Optimized project build pipelines by migrating legacy setups to Vite, significantly improving HMR (Hot Module Replacement) and development build speed.",
-  },
-  {
-    id: 5,
-    text: 'Version Control & Workflow: Managed source code with Git/GitHub, following standard PR code review practices and npm dependency workflows.',
-  },
-];
 export const skillsHard = [
   {
     id: 0,
